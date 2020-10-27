@@ -1,16 +1,16 @@
 {
-  "name": "nextjs-starter",
+  "name": "tc-tac-toe",
   "version": "1.0.0",
   "private": true,
-  "description": "Template for nextjs + typescript",
-  "homepage": "https://github.com/zlfnhmd/next-typescript#readme",
+  "description": "#️⃣ TIC TAC TOE #️⃣",
+  "homepage": "https://github.com/zlfnhmd/tic-tac-toe#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zlfnhmd/next-typescript.git"
+    "url": "git+https://github.com/zlfnhmd/tic-tac-toe.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zlfnhmd/next-typescript/issues"
+    "url": "https://github.com/zlfnhmd/tic-tac-toe/issues"
   },
   "author": "Zulfan Hameed <zlfnhmd@gmail.com>",
   "scripts": {
